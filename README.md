@@ -5,22 +5,22 @@
 
 ## 
 ## Technologies
-#### Project uses some Programming Language and Web tools to work Properly:
+#### The project uses some Programming Language and Web tools to work Properly:
 
 - Node JS
 - React JS
 - JavaScript
-- Express framework
+- Express Framework
 - CSS
 - HTML (JSX)
-- Some Other Depentencies
+- Some Other Dependencies
 [ React Hooks, React Router, File System, Cors ]
 
-## Usage
+## The Usage
 
-> To usage it, you must be having NodeJS installed.
+> To use it, you must be having NodeJS installed.
 
-- After you downloading this project, Extract it and open the backend folder, and in terminal do it
+- After you download this project, Extract it and open the backend folder, and in the terminal do it
 
 #### 1.Install the dependencies:
 
@@ -34,7 +34,7 @@ npm i
 node app
 ```
 
-- Now you running a server, After that open the frontend folder, and in terminal do it
+- Now you run a server, After that open the frontend folder, and in the terminal do it
 
 #### 1.Install the dependencies:
 ```sh
